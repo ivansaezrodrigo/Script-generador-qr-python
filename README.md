@@ -1,0 +1,1 @@
+# Script-generador-qr-python
